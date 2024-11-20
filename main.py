@@ -16,3 +16,4 @@ if __name__ == "__main__":
   
   import module
   print(module.get_name())
+  print(module.get_number())
