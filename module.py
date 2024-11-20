@@ -1,2 +1,3 @@
-name = input('What is your name?\n')
-print('Hi, %s.' % name)
+def get_name():
+    name = input('What is your name?\n')
+    return name
